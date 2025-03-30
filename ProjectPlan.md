@@ -44,6 +44,7 @@ Body Mass Index (BMI) is a numerical measure that assesses whether an individual
 - The remaining variables will be evaluated for further analysis after conducting exploratory data analysis on each dataset and integrating them. Additionally, they may be considered as potential confounding variables in the later stages of analysis, especially if unexpected correlations arise between our primary target variables.  
 
 ### **American Community Survey US Census Dataset (API)**
+[Link to US Census Website](https://www.census.gov/acs/www/data/data-tables-and-tools/data-profiles/2022/)
 [Link to API](https://api.census.gov/data/2022/acs/acs1)
 
 The 2022 American Community Survey (ACS) 1-Year Estimates provide a detailed snapshot of socioeconomic conditions across the United States at the state level. This analysis focuses on key variables related to income, education, and employment. Median household income (B19013_001E) serves as a core indicator of economic well-being, while educational attainment is captured through bachelor's (B15003_022E), master's (B15003_023E), and doctorate (B15003_025E) degree completion. Additional measures such as the poverty count (B17001_002E) and unemployment (B23025_005E) provide insight into economic hardship and labor market conditions. 

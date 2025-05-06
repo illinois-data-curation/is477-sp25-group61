@@ -1,0 +1,11 @@
+Variable,Education vs Health,Individual Income vs Stroke,Socioeconomic vs Stroke
+hypertension,0.004611742126859676,,
+heart_disease,-0.01696274204633198,,
+bmi,0.0017173253087631592,,
+avg_glucose_level,-0.012927112346224675,,
+individual_income,,0.006451092597935813,0.006451092597935813
+Median_Income,,,0.011618698088296148
+education_score,,,-0.01714246635434283
+income_x_age,,,0.2063170851055238
+education_x_bmi,,,-0.0062323023760336
+income_x_glucose,,,0.11922683986994134

@@ -1,7 +1,7 @@
 # Stroke Risk & Socioeconomic Factors: A Data Integration & Simulation Approach
 
 Link to Archival Record:  
-Dropbox Folder/Zenodo DOI  
+**Dropbox Folder:** https://uofi.box.com/s/gzi9ls3qg0trx7l4nv182iud1s0uijmy 
 
 ## Contributors  
 Michelle Liu, Sophomore at the University of Illinois Urbana-Champaign  
@@ -186,8 +186,8 @@ To reproduce this project from scratch, follow the steps below:
    pip install -r requirements.txt
 
 3. **Download the Data:**
-   Box: [LINK TO BOX]
-   Save stroke.csv and ruralurbancodes2023.csv to the data/folder.
+   Box: https://uofi.box.com/s/gzi9ls3qg0trx7l4nv182iud1s0uijmy
+   Go to the inputData folder and download and save stroke.csv and ruralurbancodes2023.csv to the data/folder.
    Make sure folder paths match what's listed in the Snakefile and code.
 
 4. **Set Up Your API Key:**

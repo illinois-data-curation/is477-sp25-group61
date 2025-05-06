@@ -1,0 +1,302 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2025-05-06T15:39:42.061690+00:00",
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/illinois-data-curation/is477-sp25-group61",
+    "code:developmentStatus": {
+      "id": "wip",
+      "title": {
+        "en": "Wip"
+      }
+    },
+    "code:programmingLanguage": [
+      {
+        "id": "python",
+        "title": {
+          "en": "Python"
+        }
+      }
+    ]
+  },
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 1,
+    "enabled": true,
+    "entries": {
+      "is477-sp25-group61-final-project.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:40cdf7f893c8c15d4e634b488a67fe48",
+        "ext": "zip",
+        "id": "8c79f08b-6157-4f49-8220-8385154de06d",
+        "key": "is477-sp25-group61-final-project.zip",
+        "links": {
+          "content": "https://sandbox.zenodo.org/api/records/214177/files/is477-sp25-group61-final-project.zip/content",
+          "self": "https://sandbox.zenodo.org/api/records/214177/files/is477-sp25-group61-final-project.zip"
+        },
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 7230535,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 7230535
+  },
+  "id": "214177",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://sandbox.zenodo.org/api/records/214177/access",
+    "access_grants": "https://sandbox.zenodo.org/api/records/214177/access/grants",
+    "access_links": "https://sandbox.zenodo.org/api/records/214177/access/links",
+    "access_request": "https://sandbox.zenodo.org/api/records/214177/access/request",
+    "access_users": "https://sandbox.zenodo.org/api/records/214177/access/users",
+    "archive": "https://sandbox.zenodo.org/api/records/214177/files-archive",
+    "archive_media": "https://sandbox.zenodo.org/api/records/214177/media-files-archive",
+    "communities": "https://sandbox.zenodo.org/api/records/214177/communities",
+    "communities-suggestions": "https://sandbox.zenodo.org/api/records/214177/communities-suggestions",
+    "doi": "https://handle.stage.datacite.org/10.5072/zenodo.214177",
+    "draft": "https://sandbox.zenodo.org/api/records/214177/draft",
+    "files": "https://sandbox.zenodo.org/api/records/214177/files",
+    "latest": "https://sandbox.zenodo.org/api/records/214177/versions/latest",
+    "latest_html": "https://sandbox.zenodo.org/records/214177/latest",
+    "media_files": "https://sandbox.zenodo.org/api/records/214177/media-files",
+    "parent": "https://sandbox.zenodo.org/api/records/214176",
+    "parent_doi": "https://handle.stage.datacite.org/10.5072/zenodo.214176",
+    "parent_doi_html": "https://sandbox.zenodo.org/doi/10.5072/zenodo.214176",
+    "parent_html": "https://sandbox.zenodo.org/records/214176",
+    "preview_html": "https://sandbox.zenodo.org/records/214177?preview=1",
+    "requests": "https://sandbox.zenodo.org/api/records/214177/requests",
+    "reserve_doi": "https://sandbox.zenodo.org/api/records/214177/draft/pids/doi",
+    "self": "https://sandbox.zenodo.org/api/records/214177",
+    "self_doi": "https://handle.stage.datacite.org/10.5072/zenodo.214177",
+    "self_doi_html": "https://sandbox.zenodo.org/doi/10.5072/zenodo.214177",
+    "self_html": "https://sandbox.zenodo.org/records/214177",
+    "self_iiif_manifest": "https://sandbox.zenodo.org/api/iiif/record:214177/manifest",
+    "self_iiif_sequence": "https://sandbox.zenodo.org/api/iiif/record:214177/sequence/default",
+    "versions": "https://sandbox.zenodo.org/api/records/214177/versions"
+  },
+  "media_files": {
+    "count": 0,
+    "enabled": false,
+    "entries": {},
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "contributors": [
+      {
+        "affiliations": [
+          {
+            "id": "047426m28",
+            "identifiers": [
+              {
+                "identifier": "047426m28",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.35403.31",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 1936 9991",
+                "scheme": "isni"
+              }
+            ],
+            "name": "University of Illinois Urbana-Champaign"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Liu",
+          "given_name": "Michelle",
+          "identifiers": [
+            {
+              "identifier": "0009-0000-8171-4037",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Liu, Michelle",
+          "type": "personal"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        }
+      }
+    ],
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "id": "047426m28",
+            "identifiers": [
+              {
+                "identifier": "047426m28",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.35403.31",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 1936 9991",
+                "scheme": "isni"
+              }
+            ],
+            "name": "University of Illinois Urbana-Champaign"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Liu",
+          "given_name": "Michelle",
+          "identifiers": [
+            {
+              "identifier": "0009-0000-8171-4037",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Liu, Michelle",
+          "type": "personal"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        }
+      }
+    ],
+    "description": "<p>IS 477 Spring 2025 Final Project - Michelle Liu&nbsp;</p>\n<p>Stroke Risk &amp; Socioeconomic Factors: A Data Integration &amp; Simulation Approach</p>",
+    "publication_date": "2025-05-06",
+    "publisher": "Zenodo",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/illinois-data-curation/is477-sp25-group61/releases/tag/final-project",
+        "relation_type": {
+          "id": "issupplementto",
+          "title": {
+            "de": "Erg\u00e4nzt",
+            "en": "Is supplement to"
+          }
+        },
+        "resource_type": {
+          "id": "software",
+          "title": {
+            "de": "Software",
+            "en": "Software"
+          }
+        },
+        "scheme": "url"
+      }
+    ],
+    "resource_type": {
+      "id": "software",
+      "title": {
+        "de": "Software",
+        "en": "Software"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code."
+        },
+        "id": "mit",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://opensource.org/licenses/MIT"
+        },
+        "title": {
+          "en": "MIT License"
+        }
+      }
+    ],
+    "title": "IS 477 Spring 2025 Final Project - Michelle Liu"
+  },
+  "parent": {
+    "access": {
+      "grants": [],
+      "links": [
+        {
+          "id": "7c3f0225-1563-4c31-b822-1238929b2cc3"
+        },
+        {
+          "id": "80265bc0-52e1-4feb-ae14-58899ae841dd"
+        }
+      ],
+      "owned_by": {
+        "user": "41999"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": false,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "id": "214176",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5072/zenodo.214176",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5072/zenodo.214177",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:214177",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 6,
+  "stats": {
+    "all_versions": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 0,
+      "views": 0
+    },
+    "this_version": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 0,
+      "views": 0
+    }
+  },
+  "status": "published",
+  "swh": {
+    "swhid": "swh:1:dir:2201c01cfaac50ea6f5be1e9b86fe6df04a8e396;origin=https://doi.org/10.5072/zenodo.214176;visit=swh:1:snp:d01b4a60fbd31d47226202ecce7bfff89a060c12;anchor=swh:1:rel:d6fd8e878678e5a26df3fdb811e4ac06cc872ea1;path=is477-sp25-group61-final-project"
+  },
+  "updated": "2025-05-06T15:40:33.096238+00:00",
+  "versions": {
+    "index": 1,
+    "is_latest": true,
+    "is_latest_draft": true
+  }
+}

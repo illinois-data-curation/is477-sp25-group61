@@ -192,7 +192,9 @@ To reproduce this project from scratch, follow the steps below:
 
 4. **Set Up Your API Key:**
    Request a US Census API Key:
-   **Link to Dataset** https://www.ers.usda.gov/data-products/rural-urban-continuum-codes
+   
+   **Link to Dataset:** https://www.ers.usda.gov/data-products/rural-urban-continuum-codes
+   
    Save the key in a plain text file named apikey.txt in your root project folder (same folder as Snakefile)
 
 6. **Run the full workflow using Snakemake:**

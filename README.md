@@ -6,7 +6,7 @@
 
 **Github Repository:** https://github.com/illinois-data-curation/is477-sp25-group61
 
-**Github Release:** 
+**Github Release:** https://github.com/illinois-data-curation/is477-sp25-group61/releases/tag/final-project
 
 ## Contributors  
 Michelle Liu, Sophomore at the University of Illinois Urbana-Champaign  

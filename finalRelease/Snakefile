@@ -1,0 +1,76 @@
+rule all:
+    input:
+        "integration/final_summary.csv",
+        "individual_file_displays/pairplot_correlation.png",
+        "individual_file_displays/heatmap_stroke_correlation.png",
+        "aboutProjectOutput/metadata.md",
+        "aboutProjectOutput/CHECKSUMS.md"
+
+rule census_data:
+    input:
+    "apikey.txt"
+    output:
+        "integration/merged_census_rucc.csv"
+    script:
+        "py_clean/merged_census_rucc.py"
+
+rule stroke_data:
+    input:
+        "data/stroke.csv"
+    output:
+        "integration/stroke_cleaned.csv"
+    script:
+        "py_clean/stroke.py"
+
+rule stroke_analysis:
+    input:
+        "data/stroke.csv"
+    output:
+        pairplot="individual_file_displays/pairplot_correlation.png",
+        heatmap="individual_file_displays/heatmap_stroke_correlation.png"
+    script:
+        "individual_dataAnalysis/strokeAnalysis.py"
+
+rule integrate_data:
+    input:
+        census="integration/merged_census_rucc.csv",
+        stroke="integration/stroke_cleaned.csv"
+    output:
+        "integration/df_final.csv"
+    script:
+        "py_clean/final_integration.py"
+
+rule simulate_data:
+    input:
+        "integration/df_final.csv"
+    output:
+        "integration/df_final_simulated.csv"
+    script:
+        "py_clean/simulation.py"
+
+rule analyze_data:
+    input:
+        "integration/df_final_simulated.csv"
+    output:
+        "integration/final_summary.csv"
+    script:
+        "py_clean/dataAnalysis.py"
+
+rule metadata_md:
+    output:
+        "aboutProjectOutput/metadata.md"
+    script:
+        "aboutProjectScripts/metadata.py"
+
+rule generate_checksums:
+    input:
+        "data/stroke.csv",
+        "data/ruralurbancodes2023.csv"
+    output:
+        "aboutProjectOutput/CHECKSUMS.md"
+    script:
+        "aboutProjectScripts/checksum.py"
+
+
+
+

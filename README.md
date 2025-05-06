@@ -1,7 +1,12 @@
 # Stroke Risk & Socioeconomic Factors: A Data Integration & Simulation Approach
 
 **Link to Archival Record:** 
+
 **Dropbox Folder:** https://uofi.box.com/s/gzi9ls3qg0trx7l4nv182iud1s0uijmy 
+
+**Github Repository:**
+
+**Github Release:**
 
 ## Contributors  
 Michelle Liu, Sophomore at the University of Illinois Urbana-Champaign  

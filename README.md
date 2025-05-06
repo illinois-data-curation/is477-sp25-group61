@@ -235,6 +235,7 @@ To reproduce this project from scratch, follow the steps below:
 - scikit-learn: Machine Learning in Python. Pedregosa et al., Journal of Machine Learning Research, 12, pp. 2825-2830, 2011. Available at: https://scikit-learn.org/  
 - Snakemake: A scalable bioinformatics workflow engine. Johannes Köster and Sven Rahmann. Bioinformatics, 28(19), 2520-2522, 2012. DOI: https://doi.org/10.1093/bioinformatics/bts480  
 - Python. Python Software Foundation. Available at: https://www.python.org/
+- edotor. edotor. Available at: https://edotor.net/  
 - ChatGPT. OpenAI. (2025). Used to assist in formatting citations and references. Also used for formatting structure of README. Available at: https://chat.openai.com/
 - GitHub Repository. https://github.com/illinois-data-curation/is477-sp25-group61
 

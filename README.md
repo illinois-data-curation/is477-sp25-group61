@@ -1,6 +1,6 @@
 # Stroke Risk & Socioeconomic Factors: A Data Integration & Simulation Approach
 
-**Link to Archival Record:** [https://sandbox.zenodo.org/records/214177?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjgwMjY1YmMwLTUyZTEtNGZlYi1hZTE0LTU4ODk5YWU4NDFkZCIsImRhdGEiOnt9LCJyYW5kb20iOiJlMzUwNjM2ZGRhN2MwY2FiZWFhZTFhNjM0NzExYmI5MCJ9.p2lcC0cwY39XJjaW4dfLXg56kDgyLfmTX53IztPBlWWMOGMatPHvVxZL8prXWk9TaeVSQjmM2YtfQ9sHWfezEQ]
+**Link to Archival Record:** [![DOI](https://sandbox.zenodo.org/badge/DOI/10.5072/zenodo.214177.svg)](https://handle.stage.datacite.org/10.5072/zenodo.214177)
 
 **Dropbox Folder:** https://uofi.box.com/s/gzi9ls3qg0trx7l4nv182iud1s0uijmy 
 

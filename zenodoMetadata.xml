@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.3/metadata.xsd">
+  <identifier identifierType="DOI">10.5072/zenodo.214177</identifier>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="URL">https://sandbox.zenodo.org/records/214177</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="oai">oai:zenodo.org:214177</alternateIdentifier>
+  </alternateIdentifiers>
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Liu, Michelle</creatorName>
+      <givenName>Michelle</givenName>
+      <familyName>Liu</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0009-0000-8171-4037</nameIdentifier>
+      <affiliation affiliationIdentifier="https://ror.org/047426m28" affiliationIdentifierScheme="ROR">University of Illinois Urbana-Champaign</affiliation>
+    </creator>
+  </creators>
+  <titles>
+    <title>IS 477 Spring 2025 Final Project - Michelle Liu</title>
+  </titles>
+  <publisher>Zenodo</publisher>
+  <publicationYear>2025</publicationYear>
+  <contributors>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">Liu, Michelle</contributorName>
+      <givenName>Michelle</givenName>
+      <familyName>Liu</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0009-0000-8171-4037</nameIdentifier>
+      <affiliation affiliationIdentifier="https://ror.org/047426m28" affiliationIdentifierScheme="ROR">University of Illinois Urbana-Champaign</affiliation>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Issued">2025-05-06</date>
+    <date dateType="Updated">2025-05-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Software"></resourceType>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="IsSupplementTo" resourceTypeGeneral="Software">https://github.com/illinois-data-curation/is477-sp25-group61/releases/tag/final-project</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsVersionOf">10.5072/zenodo.214176</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="IsIdenticalTo">https://webapp.staging.swh.network/swh:1:dir:2201c01cfaac50ea6f5be1e9b86fe6df04a8e396;origin=https://doi.org/10.5072/zenodo.214176;visit=swh:1:snp:d01b4a60fbd31d47226202ecce7bfff89a060c12;anchor=swh:1:rel:d6fd8e878678e5a26df3fdb811e4ac06cc872ea1;path=is477-sp25-group61-final-project</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="https://opensource.org/licenses/MIT" rightsIdentifierScheme="spdx" rightsIdentifier="mit">MIT License</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">IS 477 Spring 2025 Final Project - Michelle Liu 
+
+Stroke Risk &amp; Socioeconomic Factors: A Data Integration &amp; Simulation Approach</description>
+  </descriptions>
+</resource>

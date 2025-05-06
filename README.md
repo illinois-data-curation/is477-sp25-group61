@@ -61,7 +61,7 @@ To define some of the more technical variables:
 The remaining variables will be evaluated for further analysis after conducting exploratory data analysis on each dataset and integrating them. Additionally, they may be considered as potential confounding variables in the later stages of analysis, especially if unexpected correlations arise between our primary target variables.
 
 **License**: Proprietary (requires permission from dataset creator)  
-_Note: Since I wasn’t too sure if this data was reproducible, I chose to do a checksum on this dataset in order to check the integrity.
+**Note**: Since I wasn’t too sure if this data was reproducible, I chose to do a checksum on this dataset in order to check the integrity.
 
 ---
 
@@ -200,6 +200,7 @@ To reproduce this project from scratch, follow the steps below:
      - Simulate new variables
      - Generate visualizations (heatmaps/paiplot)
      - Create metadata and checksum documentation
+       
    ```bash
    snakemake -j 1
 

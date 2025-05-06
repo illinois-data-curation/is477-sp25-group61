@@ -4,9 +4,9 @@
 
 **Dropbox Folder:** https://uofi.box.com/s/gzi9ls3qg0trx7l4nv182iud1s0uijmy 
 
-**Github Repository:** 
+**Github Repository:** https://github.com/illinois-data-curation/is477-sp25-group61
 
-**Github Release:**
+**Github Release:** 
 
 ## Contributors  
 Michelle Liu, Sophomore at the University of Illinois Urbana-Champaign  

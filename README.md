@@ -187,10 +187,12 @@ To reproduce this project from scratch, follow the steps below:
 
 3. **Download the Data:**
    Box: https://uofi.box.com/s/gzi9ls3qg0trx7l4nv182iud1s0uijmy
+   
    Go to the inputData folder and download and save stroke.csv and ruralurbancodes2023.csv to the data/folder.
+   
    Make sure folder paths match what's listed in the Snakefile and code.
 
-4. **Set Up Your API Key:**
+5. **Set Up Your API Key:**
    Request a US Census API Key:
    
    **Link to Dataset:** https://www.ers.usda.gov/data-products/rural-urban-continuum-codes

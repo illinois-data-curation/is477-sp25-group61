@@ -173,11 +173,16 @@ For future work, I propose:
 
 To reproduce this project from scratch, follow the steps below:
 
-1. **Clone the repository:**
+1. **Clone the Repository:**
 
    ```bash
    git clone [INSERT YOUR REPO LINK]
-   cd [repo-folder]
+   cd final_project
+
+2. **Set up your Python Enviornment:**
+
+   ```bash
+   pip install -r requirements.txt
 ---
 
 ## References

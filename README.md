@@ -183,6 +183,30 @@ To reproduce this project from scratch, follow the steps below:
 
    ```bash
    pip install -r requirements.txt
+
+3. **Download the Data:**
+   Box: [LINK TO BOX]
+   Save stroke.csv and ruralurbancodes2023.csv to the data/folder.
+   Make sure folder paths match what's listed in the Snakefile and code.
+
+4. **Set Up Your API Key:**
+   Request a US Census API Key: **Link to Dataset** https://www.ers.usda.gov/data-products/rural-urban-continuum-codes
+   Save the key in a plain text file named apikey.txt in your root project folder (same folder as Snakefile)
+
+5. **Run the full workflow using Snakemake:**
+   - This will:
+     - Retrieve and integrate Census + RUCC data
+     - Clean and transform the stroke dataset
+     - Simulate new variables
+     - Generate visualizations (heatmaps/paiplot)
+     - Create metadata and checksum documentation
+   ```bash
+   snakemake -j 1
+
+6. **(Optional) Visualize the Workflow DAG:**
+   ```bash
+   snakemake --dag | dot -Tpng > dag_workflow.png
+   
 ---
 
 ## References

@@ -167,7 +167,17 @@ For future work, I propose:
 - Expanding the scope of health indicators to include diet, physical activity, access to healthcare, and mental health metrics potentially through integrating/expanding to other datasets.  
 - Applying a balancing technique to correct for class imbalance in stroke occurrence, which could enhance the power of predictive modeling.  
 - Testing machine learning models (such as logistic regression or Random Forest with cross-validation) using real, non-simulated SES data to validate initial insights onto unseen data.
+---
 
+## Reproducing This Project
+
+To reproduce this project from scratch, follow the steps below:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone [INSERT YOUR REPO LINK]
+   cd [repo-folder]
 ---
 
 ## References

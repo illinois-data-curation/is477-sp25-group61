@@ -24,7 +24,7 @@ def sha256_checksum(filename):
 os.makedirs(os.path.dirname(output_file), exist_ok=True)
 
 with open(output_file, "w") as out:
-    out.write("# ✅ SHA-256 Checksums\n\n")
+    out.write("# SHA-256 Checksums\n\n")
     for file in files_to_check:
         if os.path.exists(file):
             checksum = sha256_checksum(file)

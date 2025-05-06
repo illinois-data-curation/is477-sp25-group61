@@ -7,7 +7,7 @@ Dropbox Folder/Zenodo DOI
 Michelle Liu, Sophomore at the University of Illinois Urbana-Champaign  
 Sophomore Class of 2027  
 Finance and Data Science, Minor in Chemistry  
-Github Repository Link: https://github.com/illinois-data-curation/is477-sp25-group61?tab=readme-ov-file
+Github Repository Link: https://github.com/illinois-data-curation/is477-sp25-group61
 
 ---
 

@@ -2,7 +2,6 @@
 
 Link to Archival Record:  
 Dropbox Folder/Zenodo DOI  
-Persistent Identifier?
 
 ## Contributors  
 Michelle Liu, Sophomore at the University of Illinois Urbana-Champaign  

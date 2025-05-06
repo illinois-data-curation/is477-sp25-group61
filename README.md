@@ -46,7 +46,7 @@ Overall, our goal was to investigate whether integrating health and socioeconomi
 ### Stroke Dataset (Kaggle Non-API)  
 **[Link to Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)**
 
-Federico Soriano Palacios is an Associate at Oliver Wyman with a strong background in data science and analytics. He holds a double Master’s degree in Data Science from Universidad Pontificia Comillas and the University of Sydney, graduating top of his class and earning multiple academic awards. He’s also a Kaggle Grandmaster and CFA Level I passer. He originally obtained this dataset from a confidential source and said to contact him for more information; however after doing so, he had not responded. Therefore, I tried to document as much information as I can about this dataset. 
+Federico Soriano Palacios is an Associate at Oliver Wyman with a strong background in data science and analytics. He holds a double Master’s degree in Data Science from Universidad Pontificia Comillas and the University of Sydney, graduating top of his class and earning multiple academic awards. He’s also a Kaggle Grandmaster and CFA Level I passer. He originally obtained this dataset from a confidential source and said to contact him for more information and to cite the author. However after reaching out to him on Kaggle and over email, he hadn't responded. Therefore, I tried to document as much information as I can about this dataset.
 
 The dataset contains both 8 categorical and 3 quantitative variables. The primary variables we will be analyzing are gender, age, hypertension, heart disease, avg_glucose_level, bmi, stroke, work type, and residence_type.  
 To define some of the more technical variables:  

@@ -191,10 +191,11 @@ To reproduce this project from scratch, follow the steps below:
    Make sure folder paths match what's listed in the Snakefile and code.
 
 4. **Set Up Your API Key:**
-   Request a US Census API Key: **Link to Dataset** https://www.ers.usda.gov/data-products/rural-urban-continuum-codes
+   Request a US Census API Key:
+   **Link to Dataset** https://www.ers.usda.gov/data-products/rural-urban-continuum-codes
    Save the key in a plain text file named apikey.txt in your root project folder (same folder as Snakefile)
 
-5. **Run the full workflow using Snakemake:**
+6. **Run the full workflow using Snakemake:**
    - This will:
      - Retrieve and integrate Census + RUCC data
      - Clean and transform the stroke dataset
@@ -205,7 +206,7 @@ To reproduce this project from scratch, follow the steps below:
    ```bash
    snakemake -j 1
 
-6. **(Optional) Visualize the Workflow DAG:**
+7. **(Optional) Visualize the Workflow DAG:**
    ```bash
    snakemake --dag | dot -Tpng > dag_workflow.png
    

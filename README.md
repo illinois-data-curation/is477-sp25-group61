@@ -11,7 +11,7 @@
 **Github Final Release:** https://github.com/illinois-data-curation/is477-sp25-group61/releases/tag/final-project
 
 ## Contributors  
-Michelle Liu, Sophomore at the University of Illinois Urbana-Champaign  
+Michelle Liu, University of Illinois Urbana-Champaign  
 Sophomore Class of 2027  
 Finance and Data Science, Minor in Chemistry  
 Github Repository Link: https://github.com/illinois-data-curation/is477-sp25-group61
@@ -22,7 +22,7 @@ Github Repository Link: https://github.com/illinois-data-curation/is477-sp25-gro
 
 Examining cardiovascular health in relation to educational attainment, urban or rural living conditions, and broader socioeconomic factors is essential for understanding and addressing health disparities in the United States. Cardiovascular diseases remain one of the leading causes of death nationally, but its prevalence and outcomes are not evenly distributed across the population. Research consistently shows that individuals with lower levels of education tend to have higher rates of heart disease, potentially due to limited health literacy, reduced access to care, and increased exposure to health risks such as poor diet, smoking, and physical inactivity. Socioeconomic factors, including income and employment status, also play a critical role in shaping health behaviors and determining access to preventive and ongoing care. Understanding how these variables intersect can help target interventions, guide policy, and ultimately reduce preventable cardiovascular morbidity and mortality across diverse communities.
 
-Cardiovascular diseases remain a leading cause of death nationally, but their distribution is not uniform. Prior research has shown strong associations between lower education, lower income, and higher cardiovascular risk. My motivation for choosing this research project/study is because I previously worked in medical assisting and noticed that cardiovascular diseases were the most common in regular patients. Since our office focused on lower income families and individuals on Medicare, I was curious about if there was a correlation between an individual’s socioeconomic background and if they were more likely to develop such diseases. 
+My motivation for choosing this research project/study is because I previously worked in medical assisting and noticed that cardiovascular diseases were the most common in regular patients. Since our office focused on lower income families and individuals on Medicare, I was curious about if there was a correlation between an individual’s socioeconomic background and if they were more likely to develop such diseases. 
 
 Overall, our goal was to investigate whether integrating health and socioeconomic datasets could highlight meaningful correlations, especially focusing on simulated interaction effects like income × age and education × BMI.
 
